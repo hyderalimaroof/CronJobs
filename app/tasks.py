@@ -12,6 +12,6 @@ def mail():
     message = f'Hi hyder, thank you for \
         registering in geeksforgeeks.'
     email_from = settings.EMAIL_HOST_USER
-    recipient_list = ['hyder.intel@gmail.com', ]
+    recipient_list = ['ha03172046587@gmail.com', ]
     send_mail(subject, message, email_from, recipient_list)
     

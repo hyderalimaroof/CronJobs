@@ -1,0 +1,629 @@
+
+[2022-03-09 12:57:06,154: ERROR/MainProcess] Received unregistered task of type 'email'.
+The message has been ignored and discarded.
+
+Did you remember to import the module containing this task?
+Or maybe you're using relative imports?
+
+Please see
+http://docs.celeryq.org/en/latest/internals/protocol.html
+for more information.
+
+The full contents of the message body was:
+b'[[], {}, {"callbacks": null, "errbacks": null, "chain": null, "chord": null}]' (77b)
+Traceback (most recent call last):
+  File "/home/muhammadhammad/Desktop/django/CronJobs/lib64/python3.9/site-packages/celery/worker/consumer/consumer.py", line 581, in on_task_received
+    strategy = strategies[type_]
+KeyError: 'email'
+[2022-03-09 12:57:11,154: ERROR/MainProcess] Received unregistered task of type 'email'.
+The message has been ignored and discarded.
+
+Did you remember to import the module containing this task?
+Or maybe you're using relative imports?
+
+Please see
+http://docs.celeryq.org/en/latest/internals/protocol.html
+for more information.
+
+The full contents of the message body was:
+b'[[], {}, {"callbacks": null, "errbacks": null, "chain": null, "chord": null}]' (77b)
+Traceback (most recent call last):
+  File "/home/muhammadhammad/Desktop/django/CronJobs/lib64/python3.9/site-packages/celery/worker/consumer/consumer.py", line 581, in on_task_received
+    strategy = strategies[type_]
+KeyError: 'email'
+[2022-03-09 12:57:16,154: ERROR/MainProcess] Received unregistered task of type 'email'.
+The message has been ignored and discarded.
+
+Did you remember to import the module containing this task?
+Or maybe you're using relative imports?
+
+Please see
+http://docs.celeryq.org/en/latest/internals/protocol.html
+for more information.
+
+The full contents of the message body was:
+b'[[], {}, {"callbacks": null, "errbacks": null, "chain": null, "chord": null}]' (77b)
+Traceback (most recent call last):
+  File "/home/muhammadhammad/Desktop/django/CronJobs/lib64/python3.9/site-packages/celery/worker/consumer/consumer.py", line 581, in on_task_received
+    strategy = strategies[type_]
+KeyError: 'email'
+[2022-03-09 12:57:21,156: ERROR/MainProcess] Received unregistered task of type 'email'.
+The message has been ignored and discarded.
+
+Did you remember to import the module containing this task?
+Or maybe you're using relative imports?
+
+Please see
+http://docs.celeryq.org/en/latest/internals/protocol.html
+for more information.
+
+The full contents of the message body was:
+b'[[], {}, {"callbacks": null, "errbacks": null, "chain": null, "chord": null}]' (77b)
+Traceback (most recent call last):
+  File "/home/muhammadhammad/Desktop/django/CronJobs/lib64/python3.9/site-packages/celery/worker/consumer/consumer.py", line 581, in on_task_received
+    strategy = strategies[type_]
+KeyError: 'email'
+[2022-03-09 12:58:14,415: ERROR/MainProcess] Received unregistered task of type 'email'.
+The message has been ignored and discarded.
+
+Did you remember to import the module containing this task?
+Or maybe you're using relative imports?
+
+Please see
+http://docs.celeryq.org/en/latest/internals/protocol.html
+for more information.
+
+The full contents of the message body was:
+b'[[], {}, {"callbacks": null, "errbacks": null, "chain": null, "chord": null}]' (77b)
+Traceback (most recent call last):
+  File "/home/muhammadhammad/Desktop/django/CronJobs/lib64/python3.9/site-packages/celery/worker/consumer/consumer.py", line 581, in on_task_received
+    strategy = strategies[type_]
+KeyError: 'email'
+[2022-03-09 12:58:40,549: ERROR/MainProcess] Received unregistered task of type 'email'.
+The message has been ignored and discarded.
+
+Did you remember to import the module containing this task?
+Or maybe you're using relative imports?
+
+Please see
+http://docs.celeryq.org/en/latest/internals/protocol.html
+for more information.
+
+The full contents of the message body was:
+b'[[], {}, {"callbacks": null, "errbacks": null, "chain": null, "chord": null}]' (77b)
+Traceback (most recent call last):
+  File "/home/muhammadhammad/Desktop/django/CronJobs/lib64/python3.9/site-packages/celery/worker/consumer/consumer.py", line 581, in on_task_received
+    strategy = strategies[type_]
+KeyError: 'email'
+[2022-03-09 12:59:11,365: ERROR/MainProcess] Received unregistered task of type 'email'.
+The message has been ignored and discarded.
+
+Did you remember to import the module containing this task?
+Or maybe you're using relative imports?
+
+Please see
+http://docs.celeryq.org/en/latest/internals/protocol.html
+for more information.
+
+The full contents of the message body was:
+b'[[], {}, {"callbacks": null, "errbacks": null, "chain": null, "chord": null}]' (77b)
+Traceback (most recent call last):
+  File "/home/muhammadhammad/Desktop/django/CronJobs/lib64/python3.9/site-packages/celery/worker/consumer/consumer.py", line 581, in on_task_received
+    strategy = strategies[type_]
+KeyError: 'email'
+[2022-03-09 12:59:16,357: ERROR/MainProcess] Received unregistered task of type 'email'.
+The message has been ignored and discarded.
+
+Did you remember to import the module containing this task?
+Or maybe you're using relative imports?
+
+Please see
+http://docs.celeryq.org/en/latest/internals/protocol.html
+for more information.
+
+The full contents of the message body was:
+b'[[], {}, {"callbacks": null, "errbacks": null, "chain": null, "chord": null}]' (77b)
+Traceback (most recent call last):
+  File "/home/muhammadhammad/Desktop/django/CronJobs/lib64/python3.9/site-packages/celery/worker/consumer/consumer.py", line 581, in on_task_received
+    strategy = strategies[type_]
+KeyError: 'email'
+[2022-03-09 13:00:14,918: ERROR/MainProcess] Received unregistered task of type 'email'.
+The message has been ignored and discarded.
+
+Did you remember to import the module containing this task?
+Or maybe you're using relative imports?
+
+Please see
+http://docs.celeryq.org/en/latest/internals/protocol.html
+for more information.
+
+The full contents of the message body was:
+b'[[], {}, {"callbacks": null, "errbacks": null, "chain": null, "chord": null}]' (77b)
+Traceback (most recent call last):
+  File "/home/muhammadhammad/Desktop/django/CronJobs/lib64/python3.9/site-packages/celery/worker/consumer/consumer.py", line 581, in on_task_received
+    strategy = strategies[type_]
+KeyError: 'email'
+[2022-03-09 13:00:19,910: ERROR/MainProcess] Received unregistered task of type 'email'.
+The message has been ignored and discarded.
+
+Did you remember to import the module containing this task?
+Or maybe you're using relative imports?
+
+Please see
+http://docs.celeryq.org/en/latest/internals/protocol.html
+for more information.
+
+The full contents of the message body was:
+b'[[], {}, {"callbacks": null, "errbacks": null, "chain": null, "chord": null}]' (77b)
+Traceback (most recent call last):
+  File "/home/muhammadhammad/Desktop/django/CronJobs/lib64/python3.9/site-packages/celery/worker/consumer/consumer.py", line 581, in on_task_received
+    strategy = strategies[type_]
+KeyError: 'email'
+[2022-03-09 13:00:24,910: ERROR/MainProcess] Received unregistered task of type 'email'.
+The message has been ignored and discarded.
+
+Did you remember to import the module containing this task?
+Or maybe you're using relative imports?
+
+Please see
+http://docs.celeryq.org/en/latest/internals/protocol.html
+for more information.
+
+The full contents of the message body was:
+b'[[], {}, {"callbacks": null, "errbacks": null, "chain": null, "chord": null}]' (77b)
+Traceback (most recent call last):
+  File "/home/muhammadhammad/Desktop/django/CronJobs/lib64/python3.9/site-packages/celery/worker/consumer/consumer.py", line 581, in on_task_received
+    strategy = strategies[type_]
+KeyError: 'email'
+[2022-03-09 13:00:29,911: ERROR/MainProcess] Received unregistered task of type 'email'.
+The message has been ignored and discarded.
+
+Did you remember to import the module containing this task?
+Or maybe you're using relative imports?
+
+Please see
+http://docs.celeryq.org/en/latest/internals/protocol.html
+for more information.
+
+The full contents of the message body was:
+b'[[], {}, {"callbacks": null, "errbacks": null, "chain": null, "chord": null}]' (77b)
+Traceback (most recent call last):
+  File "/home/muhammadhammad/Desktop/django/CronJobs/lib64/python3.9/site-packages/celery/worker/consumer/consumer.py", line 581, in on_task_received
+    strategy = strategies[type_]
+KeyError: 'email'
+[2022-03-09 13:00:34,912: ERROR/MainProcess] Received unregistered task of type 'email'.
+The message has been ignored and discarded.
+
+Did you remember to import the module containing this task?
+Or maybe you're using relative imports?
+
+Please see
+http://docs.celeryq.org/en/latest/internals/protocol.html
+for more information.
+
+The full contents of the message body was:
+b'[[], {}, {"callbacks": null, "errbacks": null, "chain": null, "chord": null}]' (77b)
+Traceback (most recent call last):
+  File "/home/muhammadhammad/Desktop/django/CronJobs/lib64/python3.9/site-packages/celery/worker/consumer/consumer.py", line 581, in on_task_received
+    strategy = strategies[type_]
+KeyError: 'email'
+[2022-03-09 13:00:39,913: ERROR/MainProcess] Received unregistered task of type 'email'.
+The message has been ignored and discarded.
+
+Did you remember to import the module containing this task?
+Or maybe you're using relative imports?
+
+Please see
+http://docs.celeryq.org/en/latest/internals/protocol.html
+for more information.
+
+The full contents of the message body was:
+b'[[], {}, {"callbacks": null, "errbacks": null, "chain": null, "chord": null}]' (77b)
+Traceback (most recent call last):
+  File "/home/muhammadhammad/Desktop/django/CronJobs/lib64/python3.9/site-packages/celery/worker/consumer/consumer.py", line 581, in on_task_received
+    strategy = strategies[type_]
+KeyError: 'email'
+[2022-03-09 13:00:44,914: ERROR/MainProcess] Received unregistered task of type 'email'.
+The message has been ignored and discarded.
+
+Did you remember to import the module containing this task?
+Or maybe you're using relative imports?
+
+Please see
+http://docs.celeryq.org/en/latest/internals/protocol.html
+for more information.
+
+The full contents of the message body was:
+b'[[], {}, {"callbacks": null, "errbacks": null, "chain": null, "chord": null}]' (77b)
+Traceback (most recent call last):
+  File "/home/muhammadhammad/Desktop/django/CronJobs/lib64/python3.9/site-packages/celery/worker/consumer/consumer.py", line 581, in on_task_received
+    strategy = strategies[type_]
+KeyError: 'email'
+[2022-03-09 13:00:49,914: ERROR/MainProcess] Received unregistered task of type 'email'.
+The message has been ignored and discarded.
+
+Did you remember to import the module containing this task?
+Or maybe you're using relative imports?
+
+Please see
+http://docs.celeryq.org/en/latest/internals/protocol.html
+for more information.
+
+The full contents of the message body was:
+b'[[], {}, {"callbacks": null, "errbacks": null, "chain": null, "chord": null}]' (77b)
+Traceback (most recent call last):
+  File "/home/muhammadhammad/Desktop/django/CronJobs/lib64/python3.9/site-packages/celery/worker/consumer/consumer.py", line 581, in on_task_received
+    strategy = strategies[type_]
+KeyError: 'email'
+[2022-03-09 13:00:54,912: ERROR/MainProcess] Received unregistered task of type 'email'.
+The message has been ignored and discarded.
+
+Did you remember to import the module containing this task?
+Or maybe you're using relative imports?
+
+Please see
+http://docs.celeryq.org/en/latest/internals/protocol.html
+for more information.
+
+The full contents of the message body was:
+b'[[], {}, {"callbacks": null, "errbacks": null, "chain": null, "chord": null}]' (77b)
+Traceback (most recent call last):
+  File "/home/muhammadhammad/Desktop/django/CronJobs/lib64/python3.9/site-packages/celery/worker/consumer/consumer.py", line 581, in on_task_received
+    strategy = strategies[type_]
+KeyError: 'email'
+[2022-03-09 13:01:09,740: WARNING/MainProcess] consumer: Connection to broker lost. Trying to re-establish the connection...
+Traceback (most recent call last):
+  File "/home/muhammadhammad/Desktop/django/CronJobs/lib64/python3.9/site-packages/celery/worker/consumer/consumer.py", line 326, in start
+    blueprint.start(self)
+  File "/home/muhammadhammad/Desktop/django/CronJobs/lib64/python3.9/site-packages/celery/bootsteps.py", line 116, in start
+    step.start(parent)
+  File "/home/muhammadhammad/Desktop/django/CronJobs/lib64/python3.9/site-packages/celery/worker/consumer/consumer.py", line 618, in start
+    c.loop(*c.loop_args())
+  File "/home/muhammadhammad/Desktop/django/CronJobs/lib64/python3.9/site-packages/celery/worker/loops.py", line 97, in asynloop
+    next(loop)
+  File "/home/muhammadhammad/Desktop/django/CronJobs/lib64/python3.9/site-packages/kombu/asynchronous/hub.py", line 362, in create_loop
+    cb(*cbargs)
+  File "/home/muhammadhammad/Desktop/django/CronJobs/lib64/python3.9/site-packages/kombu/transport/redis.py", line 1326, in on_readable
+    self.cycle.on_readable(fileno)
+  File "/home/muhammadhammad/Desktop/django/CronJobs/lib64/python3.9/site-packages/kombu/transport/redis.py", line 562, in on_readable
+    chan.handlers[type]()
+  File "/home/muhammadhammad/Desktop/django/CronJobs/lib64/python3.9/site-packages/kombu/transport/redis.py", line 906, in _receive
+    ret.append(self._receive_one(c))
+  File "/home/muhammadhammad/Desktop/django/CronJobs/lib64/python3.9/site-packages/kombu/transport/redis.py", line 916, in _receive_one
+    response = c.parse_response()
+  File "/home/muhammadhammad/Desktop/django/CronJobs/lib64/python3.9/site-packages/redis/client.py", line 1438, in parse_response
+    response = self._execute(conn, conn.read_response)
+  File "/home/muhammadhammad/Desktop/django/CronJobs/lib64/python3.9/site-packages/redis/client.py", line 1420, in _execute
+    return conn.retry.call_with_retry(
+  File "/home/muhammadhammad/Desktop/django/CronJobs/lib64/python3.9/site-packages/redis/retry.py", line 48, in call_with_retry
+    fail(error)
+  File "/home/muhammadhammad/Desktop/django/CronJobs/lib64/python3.9/site-packages/redis/client.py", line 1422, in <lambda>
+    lambda error: self._disconnect_raise_connect(conn, error),
+  File "/home/muhammadhammad/Desktop/django/CronJobs/lib64/python3.9/site-packages/redis/client.py", line 1409, in _disconnect_raise_connect
+    raise error
+  File "/home/muhammadhammad/Desktop/django/CronJobs/lib64/python3.9/site-packages/redis/retry.py", line 45, in call_with_retry
+    return do()
+  File "/home/muhammadhammad/Desktop/django/CronJobs/lib64/python3.9/site-packages/redis/client.py", line 1421, in <lambda>
+    lambda: command(*args, **kwargs),
+  File "/home/muhammadhammad/Desktop/django/CronJobs/lib64/python3.9/site-packages/redis/connection.py", line 814, in read_response
+    response = self._parser.read_response(disable_decoding=disable_decoding)
+  File "/home/muhammadhammad/Desktop/django/CronJobs/lib64/python3.9/site-packages/redis/connection.py", line 320, in read_response
+    raw = self._buffer.readline()
+  File "/home/muhammadhammad/Desktop/django/CronJobs/lib64/python3.9/site-packages/redis/connection.py", line 251, in readline
+    self._read_from_socket()
+  File "/home/muhammadhammad/Desktop/django/CronJobs/lib64/python3.9/site-packages/redis/connection.py", line 197, in _read_from_socket
+    raise ConnectionError(SERVER_CLOSED_CONNECTION_ERROR)
+redis.exceptions.ConnectionError: Connection closed by server.
+[2022-03-09 13:01:09,760: WARNING/MainProcess] /home/muhammadhammad/Desktop/django/CronJobs/lib64/python3.9/site-packages/celery/worker/consumer/consumer.py:361: CPendingDeprecationWarning: 
+In Celery 5.1 we introduced an optional breaking change which
+on connection loss cancels all currently executed tasks with late acknowledgement enabled.
+These tasks cannot be acknowledged as the connection is gone, and the tasks are automatically redelivered back to the queue.
+You can enable this behavior using the worker_cancel_long_running_tasks_on_connection_loss setting.
+In Celery 5.1 it is set to False by default. The setting will be set to True by default in Celery 6.0.
+
+  warnings.warn(CANCEL_TASKS_BY_DEFAULT, CPendingDeprecationWarning)
+
+[2022-03-09 13:01:09,762: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379//: Error 111 connecting to localhost:6379. Connection refused..
+Trying again in 2.00 seconds... (1/100)
+
+[2022-03-09 13:01:11,768: ERROR/MainProcess] consumer: Cannot connect to redis://localhost:6379//: Error 111 connecting to localhost:6379. Connection refused..
+Trying again in 4.00 seconds... (2/100)
+
+[2022-03-09 13:01:13,616: WARNING/MainProcess] Traceback (most recent call last):
+[2022-03-09 13:01:13,616: WARNING/MainProcess]   File "/usr/lib64/python3.9/multiprocessing/util.py", line 300, in _run_finalizers
+    finalizer()
+[2022-03-09 13:01:13,616: WARNING/MainProcess]   File "/usr/lib64/python3.9/multiprocessing/util.py", line 224, in __call__
+    res = self._callback(*self._args, **self._kwargs)
+[2022-03-09 13:01:13,616: WARNING/MainProcess]   File "/home/muhammadhammad/Desktop/django/CronJobs/lib64/python3.9/site-packages/billiard/pool.py", line 1662, in _terminate_pool
+    cls._help_stuff_finish(*help_stuff_finish_args)
+[2022-03-09 13:01:13,616: WARNING/MainProcess]   File "/home/muhammadhammad/Desktop/django/CronJobs/lib64/python3.9/site-packages/celery/concurrency/asynpool.py", line 1347, in _help_stuff_finish
+    fileno_to_proc[fd].inq._reader.recv()
+[2022-03-09 13:01:13,616: WARNING/MainProcess]   File "/home/muhammadhammad/Desktop/django/CronJobs/lib64/python3.9/site-packages/billiard/connection.py", line 279, in recv
+    return ForkingPickler.loadbuf(buf)
+[2022-03-09 13:01:13,616: WARNING/MainProcess]   File "/home/muhammadhammad/Desktop/django/CronJobs/lib64/python3.9/site-packages/billiard/reduction.py", line 61, in loadbuf
+    return cls.loads(buf.getbuffer())
+[2022-03-09 13:01:13,616: WARNING/MainProcess] EOFError: Ran out of input
+[2022-03-10 06:14:23,918: INFO/MainProcess] Connected to redis://localhost:6379//
+[2022-03-10 06:14:23,922: INFO/MainProcess] mingle: searching for neighbors
+[2022-03-10 06:14:24,929: INFO/MainProcess] mingle: all alone
+[2022-03-10 06:14:24,939: WARNING/MainProcess] /home/muhammadhammad/Desktop/django/CronJobs/lib64/python3.9/site-packages/celery/fixups/django.py:203: UserWarning: Using settings.DEBUG leads to a memory
+            leak, never use this setting in production environments!
+  warnings.warn('''Using settings.DEBUG leads to a memory
+
+[2022-03-10 06:14:24,939: INFO/MainProcess] celery@localhost.localdomain ready.
+[2022-03-10 06:14:41,374: INFO/MainProcess] Task email[0fff7fd6-9d8d-4626-b4e1-86d1700e1d39] received
+[2022-03-10 06:14:44,565: WARNING/ForkPoolWorker-2] send email
+[2022-03-10 06:14:44,572: INFO/ForkPoolWorker-2] Task email[0fff7fd6-9d8d-4626-b4e1-86d1700e1d39] succeeded in 3.1974214519999578s: None
+[2022-03-10 06:14:46,354: INFO/MainProcess] Task email[a24e969c-bc30-4355-a2d2-0b1770f44f22] received
+[2022-03-10 06:14:49,897: WARNING/ForkPoolWorker-2] send email
+[2022-03-10 06:14:49,899: INFO/ForkPoolWorker-2] Task email[a24e969c-bc30-4355-a2d2-0b1770f44f22] succeeded in 3.542958573999954s: None
+[2022-03-10 06:14:51,354: INFO/MainProcess] Task email[77468424-1325-4ac2-af4b-579fbd9f8666] received
+[2022-03-10 06:14:53,690: WARNING/ForkPoolWorker-2] send email
+[2022-03-10 06:14:53,693: INFO/ForkPoolWorker-2] Task email[77468424-1325-4ac2-af4b-579fbd9f8666] succeeded in 2.337939647999974s: None
+[2022-03-10 06:14:56,355: INFO/MainProcess] Task email[43b90a78-7758-47fe-832c-c639c11d0be7] received
+[2022-03-10 06:14:58,571: WARNING/ForkPoolWorker-2] send email
+[2022-03-10 06:14:58,574: INFO/ForkPoolWorker-2] Task email[43b90a78-7758-47fe-832c-c639c11d0be7] succeeded in 2.2163223050000624s: None
+[2022-03-10 06:15:01,356: INFO/MainProcess] Task email[4a773e20-dfed-4b37-9ba9-e89d9d0a1814] received
+[2022-03-10 06:15:06,358: INFO/MainProcess] Task email[f2377fa2-d178-4a6a-8536-5e4702ad0bc0] received
+[2022-03-10 06:15:08,200: WARNING/ForkPoolWorker-2] send email
+[2022-03-10 06:15:08,203: INFO/ForkPoolWorker-2] Task email[4a773e20-dfed-4b37-9ba9-e89d9d0a1814] succeeded in 6.844990574000008s: None
+[2022-03-10 06:15:10,077: WARNING/ForkPoolWorker-4] send email
+[2022-03-10 06:15:10,084: INFO/ForkPoolWorker-4] Task email[f2377fa2-d178-4a6a-8536-5e4702ad0bc0] succeeded in 3.723168589000011s: None
+[2022-03-10 06:15:11,359: INFO/MainProcess] Task email[c9d89e42-c720-48dc-a45b-d24ea6bf6555] received
+[2022-03-10 06:15:13,953: WARNING/ForkPoolWorker-2] send email
+[2022-03-10 06:15:13,955: INFO/ForkPoolWorker-2] Task email[c9d89e42-c720-48dc-a45b-d24ea6bf6555] succeeded in 2.593960134999975s: None
+[2022-03-10 06:15:16,358: INFO/MainProcess] Task email[d3d944a9-1785-4e18-9251-010cdfa51a52] received
+[2022-03-10 06:15:19,844: WARNING/ForkPoolWorker-2] send email
+[2022-03-10 06:15:19,846: INFO/ForkPoolWorker-2] Task email[d3d944a9-1785-4e18-9251-010cdfa51a52] succeeded in 3.485697017999996s: None
+[2022-03-10 06:15:21,358: INFO/MainProcess] Task email[1baac732-1e20-475b-bc41-6644c6bfbe0b] received
+[2022-03-10 06:15:24,648: WARNING/ForkPoolWorker-2] send email
+[2022-03-10 06:15:24,651: INFO/ForkPoolWorker-2] Task email[1baac732-1e20-475b-bc41-6644c6bfbe0b] succeeded in 3.2901140939999323s: None
+[2022-03-10 06:15:26,358: INFO/MainProcess] Task email[8407d622-83c7-4ed5-9e2e-15f985d7196a] received
+[2022-03-10 06:15:28,602: WARNING/ForkPoolWorker-2] send email
+[2022-03-10 06:15:28,605: INFO/ForkPoolWorker-2] Task email[8407d622-83c7-4ed5-9e2e-15f985d7196a] succeeded in 2.244153019999999s: None
+[2022-03-10 06:15:31,359: INFO/MainProcess] Task email[8accf0ab-b3c5-40b3-888a-801c4ca989db] received
+[2022-03-10 06:15:36,359: INFO/MainProcess] Task email[0f3d78ce-fe97-49c1-9a21-37dd70e3cfaf] received
+[2022-03-10 06:15:38,728: WARNING/ForkPoolWorker-4] send email
+[2022-03-10 06:15:38,731: INFO/ForkPoolWorker-4] Task email[0f3d78ce-fe97-49c1-9a21-37dd70e3cfaf] succeeded in 2.369498551999982s: None
+[2022-03-10 06:15:39,106: WARNING/ForkPoolWorker-2] send email
+[2022-03-10 06:15:39,107: INFO/ForkPoolWorker-2] Task email[8accf0ab-b3c5-40b3-888a-801c4ca989db] succeeded in 7.746764358000064s: None
+[2022-03-10 06:15:41,359: INFO/MainProcess] Task email[2775faad-e425-4b2b-8a1a-fd2d2cd06322] received
+[2022-03-10 06:15:43,610: WARNING/ForkPoolWorker-2] send email
+[2022-03-10 06:15:43,614: INFO/ForkPoolWorker-2] Task email[2775faad-e425-4b2b-8a1a-fd2d2cd06322] succeeded in 2.253612306999912s: None
+[2022-03-10 06:15:46,359: INFO/MainProcess] Task email[08ca5fd4-e5ad-4d5c-9ea5-7fee9434dab5] received
+[2022-03-10 06:15:48,598: WARNING/ForkPoolWorker-2] send email
+[2022-03-10 06:15:48,601: INFO/ForkPoolWorker-2] Task email[08ca5fd4-e5ad-4d5c-9ea5-7fee9434dab5] succeeded in 2.239521117000095s: None
+[2022-03-10 06:15:51,359: INFO/MainProcess] Task email[3aebe821-3e7b-4948-ad4d-51187e2a987e] received
+[2022-03-10 06:15:53,923: WARNING/ForkPoolWorker-2] send email
+[2022-03-10 06:15:53,926: INFO/ForkPoolWorker-2] Task email[3aebe821-3e7b-4948-ad4d-51187e2a987e] succeeded in 2.564221474999954s: None
+[2022-03-10 06:15:56,360: INFO/MainProcess] Task email[590886f9-ba4f-4137-aad0-b611db421ed2] received
+[2022-03-10 06:15:58,650: WARNING/ForkPoolWorker-2] send email
+[2022-03-10 06:15:58,652: INFO/ForkPoolWorker-2] Task email[590886f9-ba4f-4137-aad0-b611db421ed2] succeeded in 2.289918725000007s: None
+[2022-03-10 06:16:01,360: INFO/MainProcess] Task email[e756363f-1b3b-4df3-943d-f6bd0a2cd942] received
+[2022-03-10 06:16:03,704: WARNING/ForkPoolWorker-2] send email
+[2022-03-10 06:16:03,707: INFO/ForkPoolWorker-2] Task email[e756363f-1b3b-4df3-943d-f6bd0a2cd942] succeeded in 2.345260074999942s: None
+[2022-03-10 06:16:06,360: INFO/MainProcess] Task email[1618c8b3-a535-4698-814c-5d534007b658] received
+[2022-03-10 06:16:08,663: WARNING/ForkPoolWorker-2] send email
+[2022-03-10 06:16:08,666: INFO/ForkPoolWorker-2] Task email[1618c8b3-a535-4698-814c-5d534007b658] succeeded in 2.3038592679999965s: None
+[2022-03-10 06:16:11,360: INFO/MainProcess] Task email[dc75f999-0f1a-45f9-871f-0a5e5442cb88] received
+[2022-03-10 06:16:13,705: WARNING/ForkPoolWorker-2] send email
+[2022-03-10 06:16:13,709: INFO/ForkPoolWorker-2] Task email[dc75f999-0f1a-45f9-871f-0a5e5442cb88] succeeded in 2.3466389790000903s: None
+[2022-03-10 06:16:16,360: INFO/MainProcess] Task email[5327ce3e-1ebd-403c-954b-6c8ae38cb95b] received
+[2022-03-10 06:16:18,740: WARNING/ForkPoolWorker-2] send email
+[2022-03-10 06:16:18,741: INFO/ForkPoolWorker-2] Task email[5327ce3e-1ebd-403c-954b-6c8ae38cb95b] succeeded in 2.378765620999957s: None
+[2022-03-10 06:16:21,357: INFO/MainProcess] Task email[a79fe31b-182d-40e7-aa51-7b5ee4045447] received
+[2022-03-10 06:16:24,140: WARNING/ForkPoolWorker-2] send email
+[2022-03-10 06:16:24,143: INFO/ForkPoolWorker-2] Task email[a79fe31b-182d-40e7-aa51-7b5ee4045447] succeeded in 2.78459003699993s: None
+[2022-03-10 06:16:26,362: INFO/MainProcess] Task email[85052e62-56eb-4d26-bd27-1f2cb2f3e206] received
+[2022-03-10 06:16:28,852: WARNING/ForkPoolWorker-2] send email
+[2022-03-10 06:16:28,854: INFO/ForkPoolWorker-2] Task email[85052e62-56eb-4d26-bd27-1f2cb2f3e206] succeeded in 2.488886253999908s: None
+[2022-03-10 06:16:31,356: INFO/MainProcess] Task email[ff3f1233-3808-41c9-a70f-76636848b912] received
+[2022-03-10 06:16:33,718: WARNING/ForkPoolWorker-2] send email
+[2022-03-10 06:16:33,719: INFO/ForkPoolWorker-2] Task email[ff3f1233-3808-41c9-a70f-76636848b912] succeeded in 2.3617965119999553s: None
+[2022-03-10 06:16:36,358: INFO/MainProcess] Task email[a9143aa1-a3a9-4449-bac7-b634e59db320] received
+[2022-03-10 06:16:38,666: WARNING/ForkPoolWorker-2] send email
+[2022-03-10 06:16:38,667: INFO/ForkPoolWorker-2] Task email[a9143aa1-a3a9-4449-bac7-b634e59db320] succeeded in 2.3081528570000955s: None
+[2022-03-10 06:16:41,359: INFO/MainProcess] Task email[ff2e63e4-3b98-426f-b8ce-e859d1546ed1] received
+[2022-03-10 06:16:43,659: WARNING/ForkPoolWorker-2] send email
+[2022-03-10 06:16:43,660: INFO/ForkPoolWorker-2] Task email[ff2e63e4-3b98-426f-b8ce-e859d1546ed1] succeeded in 2.3009156659999235s: None
+[2022-03-10 06:16:46,356: INFO/MainProcess] Task email[82c02a44-dc9d-4747-b4c9-4e1c14f2ff99] received
+[2022-03-10 06:16:48,993: WARNING/ForkPoolWorker-2] send email
+[2022-03-10 06:16:48,994: INFO/ForkPoolWorker-2] Task email[82c02a44-dc9d-4747-b4c9-4e1c14f2ff99] succeeded in 2.6357569969999304s: None
+[2022-03-10 06:16:51,356: INFO/MainProcess] Task email[efd78faf-0409-468b-9040-f750d0f1b7e7] received
+[2022-03-10 06:16:54,047: WARNING/ForkPoolWorker-2] send email
+[2022-03-10 06:16:54,049: INFO/ForkPoolWorker-2] Task email[efd78faf-0409-468b-9040-f750d0f1b7e7] succeeded in 2.6917879200000243s: None
+[2022-03-10 06:16:56,357: INFO/MainProcess] Task email[0d13fb57-c9b7-4cd5-aab0-96698ccdd5bc] received
+[2022-03-10 06:16:58,626: WARNING/ForkPoolWorker-2] send email
+[2022-03-10 06:16:58,627: INFO/ForkPoolWorker-2] Task email[0d13fb57-c9b7-4cd5-aab0-96698ccdd5bc] succeeded in 2.2673053590000336s: None
+[2022-03-10 06:17:01,357: INFO/MainProcess] Task email[d28ebdf8-d699-473c-bd70-d346624f471f] received
+[2022-03-10 06:17:03,853: WARNING/ForkPoolWorker-2] send email
+[2022-03-10 06:17:03,854: INFO/ForkPoolWorker-2] Task email[d28ebdf8-d699-473c-bd70-d346624f471f] succeeded in 2.495765097000003s: None
+[2022-03-10 06:17:06,357: INFO/MainProcess] Task email[eb457eba-9ac2-43c6-b93e-c73a750c3211] received
+[2022-03-10 06:17:08,686: WARNING/ForkPoolWorker-2] send email
+[2022-03-10 06:17:08,688: INFO/ForkPoolWorker-2] Task email[eb457eba-9ac2-43c6-b93e-c73a750c3211] succeeded in 2.3300480660000176s: None
+[2022-03-10 06:17:11,361: INFO/MainProcess] Task email[70f8f893-77cb-4dd5-aa49-b1bee427f74e] received
+[2022-03-10 06:17:14,243: WARNING/ForkPoolWorker-2] send email
+[2022-03-10 06:17:14,246: INFO/ForkPoolWorker-2] Task email[70f8f893-77cb-4dd5-aa49-b1bee427f74e] succeeded in 2.882920303999981s: None
+[2022-03-10 06:17:16,361: INFO/MainProcess] Task email[f68e73eb-5ce0-4c3f-aed1-a6eb62c6cc28] received
+[2022-03-10 06:17:18,673: WARNING/ForkPoolWorker-2] send email
+[2022-03-10 06:17:18,676: INFO/ForkPoolWorker-2] Task email[f68e73eb-5ce0-4c3f-aed1-a6eb62c6cc28] succeeded in 2.3130189990000645s: None
+[2022-03-10 06:17:21,361: INFO/MainProcess] Task email[7df794b5-dfca-4a81-a62e-184670787c10] received
+[2022-03-10 06:17:23,960: WARNING/ForkPoolWorker-2] send email
+[2022-03-10 06:17:23,962: INFO/ForkPoolWorker-2] Task email[7df794b5-dfca-4a81-a62e-184670787c10] succeeded in 2.5979897159999155s: None
+[2022-03-10 06:17:26,361: INFO/MainProcess] Task email[d84865ab-410d-45af-86a1-4f91050820f8] received
+[2022-03-10 06:17:28,684: WARNING/ForkPoolWorker-2] send email
+[2022-03-10 06:17:28,686: INFO/ForkPoolWorker-2] Task email[d84865ab-410d-45af-86a1-4f91050820f8] succeeded in 2.3225913359999595s: None
+[2022-03-10 06:17:31,361: INFO/MainProcess] Task email[f96d90d9-0aec-4f7c-ae42-5ac20ca5729a] received
+[2022-03-10 06:17:33,696: WARNING/ForkPoolWorker-2] send email
+[2022-03-10 06:17:33,698: INFO/ForkPoolWorker-2] Task email[f96d90d9-0aec-4f7c-ae42-5ac20ca5729a] succeeded in 2.3349087390000705s: None
+[2022-03-10 06:17:36,361: INFO/MainProcess] Task email[dbafea0e-1984-4cf2-94b5-954a2a61ca63] received
+[2022-03-10 06:17:38,787: WARNING/ForkPoolWorker-2] send email
+[2022-03-10 06:17:38,790: INFO/ForkPoolWorker-2] Task email[dbafea0e-1984-4cf2-94b5-954a2a61ca63] succeeded in 2.426546734999988s: None
+[2022-03-10 06:17:41,361: INFO/MainProcess] Task email[a2a689ba-f1b7-4641-bb04-bbc569a0c53a] received
+[2022-03-10 06:17:44,145: WARNING/ForkPoolWorker-2] send email
+[2022-03-10 06:17:44,147: INFO/ForkPoolWorker-2] Task email[a2a689ba-f1b7-4641-bb04-bbc569a0c53a] succeeded in 2.783259510999983s: None
+[2022-03-10 06:17:46,360: INFO/MainProcess] Task email[95039a5a-db1b-4217-94ed-806aaa9cc994] received
+[2022-03-10 06:17:49,317: WARNING/ForkPoolWorker-2] send email
+[2022-03-10 06:17:49,319: INFO/ForkPoolWorker-2] Task email[95039a5a-db1b-4217-94ed-806aaa9cc994] succeeded in 2.956679785999995s: None
+[2022-03-10 06:17:51,362: INFO/MainProcess] Task email[9c6f2895-c5cd-40cd-83f4-d06b030400cc] received
+[2022-03-10 06:17:53,680: WARNING/ForkPoolWorker-2] send email
+[2022-03-10 06:17:53,682: INFO/ForkPoolWorker-2] Task email[9c6f2895-c5cd-40cd-83f4-d06b030400cc] succeeded in 2.3179811950000158s: None
+[2022-03-10 06:17:56,362: INFO/MainProcess] Task email[9d64ecb4-d339-41a7-9ca4-20159f19d35e] received
+[2022-03-10 06:17:59,722: WARNING/ForkPoolWorker-2] send email
+[2022-03-10 06:17:59,725: INFO/ForkPoolWorker-2] Task email[9d64ecb4-d339-41a7-9ca4-20159f19d35e] succeeded in 3.360943544999941s: None
+[2022-03-10 06:18:01,362: INFO/MainProcess] Task email[d26fd389-b870-453d-8ceb-1b76cf37f08a] received
+[2022-03-10 06:18:03,723: WARNING/ForkPoolWorker-2] send email
+[2022-03-10 06:18:03,726: INFO/ForkPoolWorker-2] Task email[d26fd389-b870-453d-8ceb-1b76cf37f08a] succeeded in 2.3619279749999578s: None
+[2022-03-10 06:18:06,363: INFO/MainProcess] Task email[e0b1cafe-ce8f-4d6d-9452-a9125861eecf] received
+[2022-03-10 06:18:08,672: WARNING/ForkPoolWorker-2] send email
+[2022-03-10 06:18:08,675: INFO/ForkPoolWorker-2] Task email[e0b1cafe-ce8f-4d6d-9452-a9125861eecf] succeeded in 2.309684643999958s: None
+[2022-03-10 06:18:11,364: INFO/MainProcess] Task email[61390c0a-b6a9-474f-ac4d-f52322f25c12] received
+[2022-03-10 06:18:13,629: WARNING/ForkPoolWorker-2] send email
+[2022-03-10 06:18:13,631: INFO/ForkPoolWorker-2] Task email[61390c0a-b6a9-474f-ac4d-f52322f25c12] succeeded in 2.2643853520000903s: None
+[2022-03-10 06:18:16,362: INFO/MainProcess] Task email[79e4289f-feaa-433f-96ec-8cc03015484b] received
+[2022-03-10 06:18:18,742: WARNING/ForkPoolWorker-2] send email
+[2022-03-10 06:18:18,745: INFO/ForkPoolWorker-2] Task email[79e4289f-feaa-433f-96ec-8cc03015484b] succeeded in 2.38066874499998s: None
+[2022-03-10 06:18:21,362: INFO/MainProcess] Task email[4a2dd564-1688-4b0f-9e1f-9ea66d85355e] received
+[2022-03-10 06:18:23,631: WARNING/ForkPoolWorker-2] send email
+[2022-03-10 06:18:23,634: INFO/ForkPoolWorker-2] Task email[4a2dd564-1688-4b0f-9e1f-9ea66d85355e] succeeded in 2.269481153000015s: None
+[2022-03-10 06:18:26,362: INFO/MainProcess] Task email[c4163645-f2ce-4785-8af1-99daf4baff15] received
+[2022-03-10 06:18:28,955: WARNING/ForkPoolWorker-2] send email
+[2022-03-10 06:18:28,958: INFO/ForkPoolWorker-2] Task email[c4163645-f2ce-4785-8af1-99daf4baff15] succeeded in 2.592775630999995s: None
+[2022-03-10 06:18:31,363: INFO/MainProcess] Task email[2ce61e3e-e83d-4875-bbfa-a23f446cbc12] received
+[2022-03-10 06:18:33,930: WARNING/ForkPoolWorker-2] send email
+[2022-03-10 06:18:33,933: INFO/ForkPoolWorker-2] Task email[2ce61e3e-e83d-4875-bbfa-a23f446cbc12] succeeded in 2.5675605870000027s: None
+[2022-03-10 06:18:36,363: INFO/MainProcess] Task email[bdb7769b-fd0c-4bf6-b64f-e2d63976b0ae] received
+[2022-03-10 06:18:38,691: WARNING/ForkPoolWorker-2] send email
+[2022-03-10 06:18:38,693: INFO/ForkPoolWorker-2] Task email[bdb7769b-fd0c-4bf6-b64f-e2d63976b0ae] succeeded in 2.328345923000029s: None
+[2022-03-10 06:18:41,363: INFO/MainProcess] Task email[d710d63b-4b69-400d-b84f-2a4aab132b7c] received
+[2022-03-10 06:18:43,716: WARNING/ForkPoolWorker-2] send email
+[2022-03-10 06:18:43,719: INFO/ForkPoolWorker-2] Task email[d710d63b-4b69-400d-b84f-2a4aab132b7c] succeeded in 2.35373938500004s: None
+[2022-03-10 06:18:46,366: INFO/MainProcess] Task email[6d3621a5-6627-4c8f-ad3c-742148e4c1fb] received
+[2022-03-10 06:18:48,756: WARNING/ForkPoolWorker-2] send email
+[2022-03-10 06:18:48,759: INFO/ForkPoolWorker-2] Task email[6d3621a5-6627-4c8f-ad3c-742148e4c1fb] succeeded in 2.3912071820000165s: None
+[2022-03-10 06:18:51,366: INFO/MainProcess] Task email[68e7d511-d3f2-48b9-a5b1-f7575eb2c9df] received
+[2022-03-10 06:18:53,694: WARNING/ForkPoolWorker-2] send email
+[2022-03-10 06:18:53,697: INFO/ForkPoolWorker-2] Task email[68e7d511-d3f2-48b9-a5b1-f7575eb2c9df] succeeded in 2.3282086079999544s: None
+[2022-03-10 06:18:56,366: INFO/MainProcess] Task email[62a44575-8449-4727-bc93-126cd2bc3d1a] received
+[2022-03-10 06:18:58,879: WARNING/ForkPoolWorker-2] send email
+[2022-03-10 06:18:58,884: INFO/ForkPoolWorker-2] Task email[62a44575-8449-4727-bc93-126cd2bc3d1a] succeeded in 2.5140395920000174s: None
+[2022-03-10 06:19:01,364: INFO/MainProcess] Task email[2e63c10f-8ab8-4c72-a76c-9fcbe8a6278f] received
+[2022-03-10 06:19:03,709: WARNING/ForkPoolWorker-2] send email
+[2022-03-10 06:19:03,711: INFO/ForkPoolWorker-2] Task email[2e63c10f-8ab8-4c72-a76c-9fcbe8a6278f] succeeded in 2.3431426500000043s: None
+[2022-03-10 06:20:12,042: INFO/MainProcess] Task email[3642f0ac-7b4c-42c6-949d-3151ffd1a9d2] received
+[2022-03-10 06:20:15,022: WARNING/ForkPoolWorker-2] send email
+[2022-03-10 06:20:15,025: INFO/ForkPoolWorker-2] Task email[3642f0ac-7b4c-42c6-949d-3151ffd1a9d2] succeeded in 2.9813322339999786s: None
+[2022-03-10 06:20:17,034: INFO/MainProcess] Task email[4249b936-b084-4e38-ab7a-01bc2733ff2d] received
+[2022-03-10 06:20:19,390: WARNING/ForkPoolWorker-2] send email
+[2022-03-10 06:20:19,392: INFO/ForkPoolWorker-2] Task email[4249b936-b084-4e38-ab7a-01bc2733ff2d] succeeded in 2.3563491929999145s: None
+[2022-03-10 06:20:22,036: INFO/MainProcess] Task email[0da09806-a305-4b10-9b73-6f18846f2440] received
+[2022-03-10 06:20:24,314: WARNING/ForkPoolWorker-2] send email
+[2022-03-10 06:20:24,317: INFO/ForkPoolWorker-2] Task email[0da09806-a305-4b10-9b73-6f18846f2440] succeeded in 2.2793064549999826s: None
+[2022-03-10 06:20:27,035: INFO/MainProcess] Task email[ba60a9bb-dbbd-4c9f-9e1a-d485609dd94a] received
+[2022-03-10 06:20:29,351: WARNING/ForkPoolWorker-2] send email
+[2022-03-10 06:20:29,354: INFO/ForkPoolWorker-2] Task email[ba60a9bb-dbbd-4c9f-9e1a-d485609dd94a] succeeded in 2.316202664000002s: None
+[2022-03-10 06:20:32,037: INFO/MainProcess] Task email[70736184-ef9f-4d13-a42c-97c92d0d53ee] received
+[2022-03-10 06:20:34,326: WARNING/ForkPoolWorker-2] send email
+[2022-03-10 06:20:34,329: INFO/ForkPoolWorker-2] Task email[70736184-ef9f-4d13-a42c-97c92d0d53ee] succeeded in 2.289103182999952s: None
+[2022-03-10 06:20:37,039: INFO/MainProcess] Task email[967f7d36-207f-48e0-9374-02effff128ef] received
+[2022-03-10 06:20:39,402: WARNING/ForkPoolWorker-2] send email
+[2022-03-10 06:20:39,404: INFO/ForkPoolWorker-2] Task email[967f7d36-207f-48e0-9374-02effff128ef] succeeded in 2.3631017399999337s: None
+[2022-03-10 06:20:42,041: INFO/MainProcess] Task email[eed0d71d-31fb-480b-8e29-1abdfb279f91] received
+[2022-03-10 06:20:44,330: WARNING/ForkPoolWorker-2] send email
+[2022-03-10 06:20:44,332: INFO/ForkPoolWorker-2] Task email[eed0d71d-31fb-480b-8e29-1abdfb279f91] succeeded in 2.2888863480000055s: None
+[2022-03-10 06:20:47,040: INFO/MainProcess] Task email[a42bd132-ec69-4b5f-bbf8-8c4ad393dd20] received
+[2022-03-10 06:20:49,344: WARNING/ForkPoolWorker-2] send email
+[2022-03-10 06:20:49,347: INFO/ForkPoolWorker-2] Task email[a42bd132-ec69-4b5f-bbf8-8c4ad393dd20] succeeded in 2.304049919000022s: None
+[2022-03-10 06:21:21,008: INFO/MainProcess] Task email[e9467554-1f46-445d-b015-1a0e7283bc6b] received
+[2022-03-10 06:21:23,308: WARNING/ForkPoolWorker-2] send email
+[2022-03-10 06:21:23,311: INFO/ForkPoolWorker-2] Task email[e9467554-1f46-445d-b015-1a0e7283bc6b] succeeded in 2.301655682000046s: None
+[2022-03-10 06:21:25,998: INFO/MainProcess] Task email[5ff67cfb-326d-4600-983c-9269a700a85c] received
+[2022-03-10 06:21:28,662: WARNING/ForkPoolWorker-2] send email
+[2022-03-10 06:21:28,664: INFO/ForkPoolWorker-2] Task email[5ff67cfb-326d-4600-983c-9269a700a85c] succeeded in 2.6636622170000237s: None
+[2022-03-10 06:21:30,999: INFO/MainProcess] Task email[2977b6c2-6da0-48bc-be0a-2717179f1ec3] received
+[2022-03-10 06:21:33,238: WARNING/ForkPoolWorker-2] send email
+[2022-03-10 06:21:33,240: INFO/ForkPoolWorker-2] Task email[2977b6c2-6da0-48bc-be0a-2717179f1ec3] succeeded in 2.240195794999977s: None
+[2022-03-10 06:21:36,001: INFO/MainProcess] Task email[aeff021c-a85c-426b-ad07-fa9259b0f9ec] received
+[2022-03-10 06:21:38,266: WARNING/ForkPoolWorker-2] send email
+[2022-03-10 06:21:38,268: INFO/ForkPoolWorker-2] Task email[aeff021c-a85c-426b-ad07-fa9259b0f9ec] succeeded in 2.2660991530000274s: None
+[2022-03-10 06:21:41,004: INFO/MainProcess] Task email[fc8b96ad-7df1-4e27-9aaa-afaec1e1857f] received
+[2022-03-10 06:21:43,347: WARNING/ForkPoolWorker-2] send email
+[2022-03-10 06:21:43,349: INFO/ForkPoolWorker-2] Task email[fc8b96ad-7df1-4e27-9aaa-afaec1e1857f] succeeded in 2.3419126730000244s: None
+[2022-03-10 06:21:46,004: INFO/MainProcess] Task email[91173bb3-0799-4b54-bcc2-8aed63843443] received
+[2022-03-10 06:21:48,314: WARNING/ForkPoolWorker-2] send email
+[2022-03-10 06:21:48,317: INFO/ForkPoolWorker-2] Task email[91173bb3-0799-4b54-bcc2-8aed63843443] succeeded in 2.3086432190000323s: None
+[2022-03-10 06:21:51,003: INFO/MainProcess] Task email[fbe8405b-73df-4a31-834c-d6dd40522ba8] received
+[2022-03-10 06:21:53,244: WARNING/ForkPoolWorker-2] send email
+[2022-03-10 06:21:53,245: INFO/ForkPoolWorker-2] Task email[fbe8405b-73df-4a31-834c-d6dd40522ba8] succeeded in 2.239198182999985s: None
+[2022-03-10 06:44:13,457: INFO/MainProcess] Task email[70059b6b-d3e2-453a-8b21-070e1c41bff9] received
+[2022-03-10 06:44:16,369: WARNING/ForkPoolWorker-2] send email
+[2022-03-10 06:44:16,371: INFO/ForkPoolWorker-2] Task email[70059b6b-d3e2-453a-8b21-070e1c41bff9] succeeded in 2.913239025999701s: None
+[2022-03-10 06:44:18,448: INFO/MainProcess] Task email[8ed4d903-979f-46c8-bad6-600572e486eb] received
+[2022-03-10 06:44:20,968: WARNING/ForkPoolWorker-2] send email
+[2022-03-10 06:44:20,972: INFO/ForkPoolWorker-2] Task email[8ed4d903-979f-46c8-bad6-600572e486eb] succeeded in 2.521263633000217s: None
+[2022-03-10 06:44:23,449: INFO/MainProcess] Task email[9f7181a6-9a3a-47a9-8f74-2455ced096e8] received
+[2022-03-10 06:44:25,803: WARNING/ForkPoolWorker-2] send email
+[2022-03-10 06:44:25,805: INFO/ForkPoolWorker-2] Task email[9f7181a6-9a3a-47a9-8f74-2455ced096e8] succeeded in 2.3550989899999877s: None
+[2022-03-10 06:44:28,448: INFO/MainProcess] Task email[46cc2b7c-6fd9-4f99-a8d7-f0e7012a4778] received
+[2022-03-10 06:44:31,402: WARNING/ForkPoolWorker-2] send email
+[2022-03-10 06:44:31,405: INFO/ForkPoolWorker-2] Task email[46cc2b7c-6fd9-4f99-a8d7-f0e7012a4778] succeeded in 2.9542481489997954s: None
+[2022-03-10 06:44:33,451: INFO/MainProcess] Task email[f57fab54-a6fa-4b3f-b592-8be8d435426d] received
+[2022-03-10 06:44:35,781: WARNING/ForkPoolWorker-2] send email
+[2022-03-10 06:44:35,784: INFO/ForkPoolWorker-2] Task email[f57fab54-a6fa-4b3f-b592-8be8d435426d] succeeded in 2.330954367999766s: None
+[2022-03-10 06:44:38,453: INFO/MainProcess] Task email[83e1ebe3-ce66-4fda-9c52-9cc5fd0dae46] received
+[2022-03-10 06:44:41,282: WARNING/ForkPoolWorker-2] send email
+[2022-03-10 06:44:41,286: INFO/ForkPoolWorker-2] Task email[83e1ebe3-ce66-4fda-9c52-9cc5fd0dae46] succeeded in 2.8301394669997535s: None
+[2022-03-10 06:44:43,452: INFO/MainProcess] Task email[8ae7aca3-fbc8-4dd8-bcea-40a4031b9150] received
+[2022-03-10 06:44:45,774: WARNING/ForkPoolWorker-2] send email
+[2022-03-10 06:44:45,776: INFO/ForkPoolWorker-2] Task email[8ae7aca3-fbc8-4dd8-bcea-40a4031b9150] succeeded in 2.3221230449998984s: None
+[2022-03-10 06:44:48,452: INFO/MainProcess] Task email[f14bc1f1-be3c-427a-aa3d-8cf4b945fd82] received
+[2022-03-10 06:44:50,714: WARNING/ForkPoolWorker-2] send email
+[2022-03-10 06:44:50,716: INFO/ForkPoolWorker-2] Task email[f14bc1f1-be3c-427a-aa3d-8cf4b945fd82] succeeded in 2.2622320850000506s: None
+[2022-03-10 06:44:53,452: INFO/MainProcess] Task email[21f45d77-afa5-4e2f-aa7e-337df79f42de] received
+[2022-03-10 06:44:55,807: WARNING/ForkPoolWorker-2] send email
+[2022-03-10 06:44:55,809: INFO/ForkPoolWorker-2] Task email[21f45d77-afa5-4e2f-aa7e-337df79f42de] succeeded in 2.3547946979997505s: None
+[2022-03-10 06:46:30,344: INFO/MainProcess] Task email[eb012f0d-99cd-4671-8114-2d3bc19dab77] received
+[2022-03-10 06:46:32,806: WARNING/ForkPoolWorker-2] send email
+[2022-03-10 06:46:32,808: INFO/ForkPoolWorker-2] Task email[eb012f0d-99cd-4671-8114-2d3bc19dab77] succeeded in 2.4631813480000346s: None
+[2022-03-10 06:46:35,335: INFO/MainProcess] Task email[5d0fb53f-1a74-4dd5-bb10-3bd871656263] received
+[2022-03-10 06:46:37,925: WARNING/ForkPoolWorker-2] send email
+[2022-03-10 06:46:37,928: INFO/ForkPoolWorker-2] Task email[5d0fb53f-1a74-4dd5-bb10-3bd871656263] succeeded in 2.5916661929995826s: None
+[2022-03-10 06:46:40,335: INFO/MainProcess] Task email[bf645b79-8bc0-4eab-85a6-5f197030925d] received
+[2022-03-10 06:46:42,842: WARNING/ForkPoolWorker-2] send email
+[2022-03-10 06:46:42,845: INFO/ForkPoolWorker-2] Task email[bf645b79-8bc0-4eab-85a6-5f197030925d] succeeded in 2.5086656920002497s: None
+[2022-03-10 06:46:45,336: INFO/MainProcess] Task email[2ae1c26b-f934-4909-b223-0390e535b5a5] received
+[2022-03-10 06:46:47,769: WARNING/ForkPoolWorker-2] send email
+[2022-03-10 06:46:47,771: INFO/ForkPoolWorker-2] Task email[2ae1c26b-f934-4909-b223-0390e535b5a5] succeeded in 2.432707649999884s: None
+[2022-03-10 06:46:50,337: INFO/MainProcess] Task email[b966168a-3588-4297-8d0f-758a2d3d19ed] received
+[2022-03-10 06:46:52,670: WARNING/ForkPoolWorker-2] send email
+[2022-03-10 06:46:52,672: INFO/ForkPoolWorker-2] Task email[b966168a-3588-4297-8d0f-758a2d3d19ed] succeeded in 2.3328591080003207s: None
+[2022-03-10 06:46:55,338: INFO/MainProcess] Task email[d3352b60-ffb1-42bd-b7f0-19181fc883f3] received
+[2022-03-10 06:46:57,697: WARNING/ForkPoolWorker-2] send email
+[2022-03-10 06:46:57,700: INFO/ForkPoolWorker-2] Task email[d3352b60-ffb1-42bd-b7f0-19181fc883f3] succeeded in 2.359436018999986s: None
+[2022-03-10 06:47:00,339: INFO/MainProcess] Task email[abf898fc-8fe6-4a3b-a92d-e4e32cd325ef] received
+[2022-03-10 06:47:02,792: WARNING/ForkPoolWorker-2] send email
+[2022-03-10 06:47:02,795: INFO/ForkPoolWorker-2] Task email[abf898fc-8fe6-4a3b-a92d-e4e32cd325ef] succeeded in 2.4541297139999187s: None
+[2022-03-10 06:47:05,340: INFO/MainProcess] Task email[40640321-04ec-4544-83f3-96657e690688] received
+[2022-03-10 06:47:07,860: WARNING/ForkPoolWorker-2] send email
+[2022-03-10 06:47:07,863: INFO/ForkPoolWorker-2] Task email[40640321-04ec-4544-83f3-96657e690688] succeeded in 2.520876102999864s: None
+[2022-03-10 06:47:10,340: INFO/MainProcess] Task email[7beadc5e-df8a-400d-bcdd-5c83781f342f] received
+[2022-03-10 06:47:12,770: WARNING/ForkPoolWorker-2] send email
+[2022-03-10 06:47:12,773: INFO/ForkPoolWorker-2] Task email[7beadc5e-df8a-400d-bcdd-5c83781f342f] succeeded in 2.4297540010002194s: None
+[2022-03-10 06:47:15,340: INFO/MainProcess] Task email[2aef06b4-b6f7-4284-baae-eac72260b2b0] received
+[2022-03-10 06:47:17,839: WARNING/ForkPoolWorker-2] send email
+[2022-03-10 06:47:17,842: INFO/ForkPoolWorker-2] Task email[2aef06b4-b6f7-4284-baae-eac72260b2b0] succeeded in 2.498977534000005s: None
+[2022-03-10 06:47:20,341: INFO/MainProcess] Task email[72ba93a2-71df-47d7-b0bc-a37261881f0b] received
+[2022-03-10 06:47:22,727: WARNING/ForkPoolWorker-2] send email
+[2022-03-10 06:47:22,729: INFO/ForkPoolWorker-2] Task email[72ba93a2-71df-47d7-b0bc-a37261881f0b] succeeded in 2.3859737689999747s: None
+[2022-03-10 06:47:25,340: INFO/MainProcess] Task email[12df350a-ae1c-4fab-97c9-43619f2ad295] received
+[2022-03-10 06:47:27,741: WARNING/ForkPoolWorker-2] send email
+[2022-03-10 06:47:27,744: INFO/ForkPoolWorker-2] Task email[12df350a-ae1c-4fab-97c9-43619f2ad295] succeeded in 2.40130024400014s: None
+[2022-03-10 06:47:30,341: INFO/MainProcess] Task email[d23c85ae-c6a5-476d-a3e7-ae54f7603722] received
+[2022-03-10 06:47:32,743: WARNING/ForkPoolWorker-2] send email
+[2022-03-10 06:47:32,745: INFO/ForkPoolWorker-2] Task email[d23c85ae-c6a5-476d-a3e7-ae54f7603722] succeeded in 2.4007887140001003s: None
+[2022-03-10 06:47:35,341: INFO/MainProcess] Task email[772be4b7-a3fb-4139-81b5-84adac5b9ba7] received
+[2022-03-10 06:47:37,762: WARNING/ForkPoolWorker-2] send email
+[2022-03-10 06:47:37,765: INFO/ForkPoolWorker-2] Task email[772be4b7-a3fb-4139-81b5-84adac5b9ba7] succeeded in 2.4220246359996054s: None
+[2022-03-10 06:47:40,340: INFO/MainProcess] Task email[289d6197-b305-4c83-954c-fb5d202fd31c] received
+[2022-03-10 06:47:42,944: WARNING/ForkPoolWorker-2] send email
+[2022-03-10 06:47:42,946: INFO/ForkPoolWorker-2] Task email[289d6197-b305-4c83-954c-fb5d202fd31c] succeeded in 2.602042583000184s: None
